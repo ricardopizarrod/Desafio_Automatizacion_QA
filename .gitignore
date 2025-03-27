@@ -1,0 +1,20 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.env
+.venv/
+
+# Archivos de configuración del editor
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Archivos sensibles o de entrada de datos
+data/
+
+# ¡No ignores la carpeta de evidencias!
+# evidencias/ (la mantenemos para revisión según la rúbrica)
